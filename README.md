@@ -1,13 +1,10 @@
 <img src="https://github.com/biancaBezerra/biancaBezerra/blob/main/capa_github.jpg?raw=true" width="100%">
 
-# Bianca Bezerra
-Desenvolvedora Web Júnior | Data Analytics | JavaScript | HTML5 | CSS | UX | UI
-
-## Sobre Mim
+## Sobre Mim 👩🏼‍💻
 
 - 💼 Aluna na [Laboratoria](https://www.laboratoria.la/)
 - 💻 Desenvolvedora Web desde 2023
-- 🛠️ Habilidades: JavaScript, HTML5, CSS, UX, UI
+- 🛠️ Habilidades: JavaScript, HTML5, CSS, UX, UI, Análise de dados
 - 🌱 Atualmente focada em Data Analytics
 - 🚀 Buscando oportunidades de emprego nas funções de Desenvolvedora Web, Desenvolvedora Front-end
 
