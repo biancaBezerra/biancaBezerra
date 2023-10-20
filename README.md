@@ -2,10 +2,10 @@
 
 ## Sobre Mim 👩🏼‍💻
 
-- 💼 Aluna na [Laboratoria](https://www.laboratoria.la/)
-- 💻 Desenvolvedora Web desde 2023
+- 💼 Em transição de carreira
+- 💻 Desenvolvedora Web desde 2023 - Aluna na [Laboratoria](https://www.laboratoria.la/)
 - 🛠️ Habilidades: JavaScript, HTML5, CSS, UX, UI, Análise de dados
-- 🌱 Atualmente focada em Data Analytics
+- 🌱 Atualmente focada em Desenvolvimento Web.
 - 🚀 Buscando oportunidades de emprego nas funções de Desenvolvedora Web, Desenvolvedora Front-end
 
 ## Experiência
@@ -30,8 +30,6 @@
 
 - *Bootcamp de Desenvolvimento Web* (Jul 2023 - Dez 2023)
 - Habilidades: Jest, React.js, React Native, Desenvolvimento de Software, JavaScript
-
-...
 
 ## Certificados e Licenças
 
