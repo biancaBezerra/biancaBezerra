@@ -54,6 +54,6 @@
 
 ## Vamos Conectar!
 
-Sinta-se à vontade para entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/bianca-bezerra/). 
+Sinta-se à vontade para entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/bianca-bezerra-63447b160/). 
 
 
