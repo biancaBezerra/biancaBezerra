@@ -10,19 +10,11 @@
 
 ## Experiência
 
-#### Laboratoria
-
-- *Aluna em período integral* (Jul 2023 - Dez 2023)
-- São Paulo, Brasil
-- Habilidades: Jest, Metodologias Ágeis, HTML5, GitHub, Git, Web Design Responsivo, Desenvolvimento Front-end
-
 #### Siromar Peças e Serviços LTDA-ME
 
 - *Assistente Administrativo* (Fev 2022 - Mai 2023)
 - Rio Grande do Sul, Brasil
 - Responsabilidades: Gerenciamento financeiro, Atendimento ao cliente, Emissão de faturas, Relatórios financeiros, Previsão de pagamentos
-
-
 
 ## Educação
 
