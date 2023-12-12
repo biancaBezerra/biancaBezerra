@@ -4,9 +4,9 @@
 
 - 💼 Em transição de carreira
 - 💻 Desenvolvedora Web desde 2023 - Aluna na [Laboratoria](https://www.laboratoria.la/)
-- 🛠️ Habilidades: JavaScript, HTML5, CSS, UX, UI, Análise de dados
+- 🛠️ Habilidades: JavaScript, Análise de dados, JAVA, Spring
 - 🌱 Atualmente focada em Desenvolvimento Web.
-- 🚀 Buscando oportunidades de emprego nas funções de Desenvolvedora Web, Desenvolvedora Front-end
+- 🚀 Buscando oportunidades de emprego nas funções de Desenvolvedora Web, Desenvolvedora Back-end
 
 ## Experiência
 
@@ -37,12 +37,15 @@
 - NextJS
 - TypeScript
 - NodeJs
+- JAVA
+- Spring
+- JUnit
 
 ## Interesses
 
-- Buscando oportunidades de emprego nas funções de Desenvolvedora web, Desenvolvedora Front-end
+- Buscando oportunidades de emprego nas funções de Desenvolvedora web, Desenvolvedora Back-end
 - Explorando novas tecnologias e linguagens de programação
-- Aprimorando habilidades de React, TypeScript e NextJs
+- Aprimorando habilidades de JAVA e Spring
 
 ## Vamos Conectar!
 
