@@ -1,4 +1,4 @@
-<img src="https://github.com/biancaBezerra/biancaBezerra/blob/main/capa.jpg?raw=true" width="100%">
+<img src="https://github.com/biancaBezerra/biancaBezerra/blob/main/capa.png" width="100%">
 
 ## Sobre Mim 👩🏼‍💻
 
