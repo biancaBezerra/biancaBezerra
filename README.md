@@ -3,7 +3,7 @@
 ## Sobre Mim 👩🏼‍💻
 
 - 💼 Em transição de carreira
-- 💻 Desenvolvedora Web desde 2023 - Aluna na [Laboratoria](https://www.laboratoria.la/)
+- 💻 Desenvolvedora Web desde 2023
 - 🛠️ Habilidades: JavaScript, Análise de dados, JAVA, Spring
 - 🌱 Atualmente focada em Desenvolvimento Web.
 - 🚀 Buscando oportunidades de emprego nas funções de Desenvolvedora Web, Desenvolvedora Back-end
@@ -35,10 +35,13 @@
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biancaBezerra&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=biancaBezerra&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 
 ## Educação
+
+### Estácio
+
+- *Engenharia de Software* (Jan 2025 - Jan 2029)
+- Habilidades: Desenvolvimento de Software, Desenvolvimento Web, Análise de dados, Lógica de programação
 
 ### Laboratoria
 
